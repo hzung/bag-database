@@ -12,3 +12,4 @@ provides a REST API that can be used to perform automated tasks.
 The Bag Database's documentation is available as a
 [GitHub Pages](https://swri-robotics.github.io/bag-database) site.
 
+## Develop notes
